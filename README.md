@@ -20,25 +20,21 @@ Backend: PHP
 
 Styling: Custom CSS
 
-**🔧 Installation & Setup**
-Clone the Repository:
+## 🔧 Installation & Setup
 
-bash
-Copy
-Edit
-git clone https://github.com/Princyjain25/Primy-s-Kitchen--Frontend-Template-for-Food-ordering-website.git
-Navigate to the Project Directory:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Princyjain25/Primy-s-Kitchen--Frontend-Template-for-Food-ordering-website.git
 
-bash
-Copy
-Edit
-cd Primy-s-Kitchen--Frontend-Template-for-Food-ordering-website
-Set Up a Local Server:
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd Primy-s-Kitchen--Frontend-Template-for-Food-ordering-website
 
+3. **Set Up a Local Server:**
 Use tools like XAMPP or WAMP to run PHP files locally.
 
-Access the Website:
+4. **Access the Website:**
 
 Place the project folder in the server's root directory (e.g., htdocs for XAMPP).
 
-Open a web browser and navigate to http://localhost/Primy-s-Kitchen--Frontend-Template-for-Food-ordering-website/index.php.
+Open a web browser and navigate to *http://localhost/Primy-s-Kitchen--Frontend-Template-for-Food-ordering-website/index.php.*
